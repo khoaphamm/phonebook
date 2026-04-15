@@ -1,7 +1,3 @@
-/*
-Copyright © 2026 Khoa Pham <khoapgh235@gmail.com>
-*/
-
 package cmd
 
 import (
